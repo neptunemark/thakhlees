@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/madhari.jpeg",
+    profile_pic: "./image/Hijas.jpg",
     profile_logo: "./image/DBI.jpg",
 
-    Name: "Jafar Madhari",
-    designation: "Director",
-    des_link_text: "@Neptunemark",
+    Name: "MUHAMMED HIJAS ",
+    designation: "SALES EXECUTIVE",
+    des_link_text: "@CARE N CURE TRADING",
     des_link: "",
-    contact: "./contact/Jafar Madhari.vcf",
+    contact: "./contact/hijaz.vcf",
 };
 
 const contact ={
-    contact_no: "+919744539486",
-    whatsapp: "+919744539486",
+    contact_no: "+97430782888",
+    whatsapp: "+918129006665",
     location: "",
-    email: "neptunemarkindia@gmail.com",
+    email: "",
 };
 
 const profilelogo=[
@@ -26,11 +26,11 @@ const profilelogo=[
 
 const links =[
     facebook={
-    visibil: true,
+    visibil: false,
     link:"https://www.facebook.com/jafar.madari?mibextid=LQQJ4d"
   },
     instagram={
-    visibil: true,
+    visibil: false,
     link:" https://instagram.com/jafar_madhari?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr"
   },
     skype={
@@ -54,11 +54,11 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     mail={
-    visibil: true,
+    visibil: false,
     link:"neptunemarkindia@gmail.com"
   },
     google={
-    visibil: true,
+    visibil: false,
     link:"https://neptunemark.com/"
   },
     telegram={
