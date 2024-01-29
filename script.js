@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/Hijas.jpg",
+    profile_pic: "./image/mani.jpg",
     profile_logo: "./image/DBI.jpg",
 
-    Name: "MUHAMMED HIJAS ",
-    designation: "SALES EXECUTIVE",
-    des_link_text: "@CARE N CURE TRADING",
-    des_link: "",
-    contact: "./contact/hijaz.vcf",
+    Name: "SUMESH MANI",
+    designation: "Corporate Marketing Manager ",
+    des_link_text: "@Al Sultan Medical Center",
+    des_link: "https://www.sultanmedicalcenter.com/",
+    contact: "./contact/sumesh mani.vcf",
 };
 
 const contact ={
-    contact_no: "+97430782888",
-    whatsapp: "+918129006665",
-    location: "",
-    email: "",
+    contact_no: "+97431583005",
+    whatsapp: "+97431583005",
+    location: "https://maps.app.goo.gl/hqmjaP2jbvmmTmbJA",
+    email: "corp.manager@sultanmedicalcenter.com",
 };
 
 const profilelogo=[
@@ -30,16 +30,16 @@ const links =[
     link:"https://www.facebook.com/jafar.madari?mibextid=LQQJ4d"
   },
     instagram={
-    visibil: false,
-    link:" https://instagram.com/jafar_madhari?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr"
+    visibil: true,
+    link:"https://www.instagram.com/sultanmedicalcenter/"
   },
     skype={
     visibil: false,
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     web={
-    visibil: false,
-    link:"https://neptunemark.com/"
+    visibil: true,
+    link:"https://www.sultanmedicalcenter.com/"
   },
     linkedin={
     visibil: false,
@@ -54,8 +54,8 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     mail={
-    visibil: false,
-    link:"neptunemarkindia@gmail.com"
+    visibil: true,
+    link:"corp.manager@sultanmedicalcenter.com"
   },
     google={
     visibil: false,
