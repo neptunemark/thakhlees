@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/mani.jpg",
+    profile_pic: "./image/emmad.jpg",
     profile_logo: "./image/DBI.jpg",
 
-    Name: "SUMESH MANI",
-    designation: "Corporate Marketing Manager ",
-    des_link_text: "@Al Sultan Medical Center",
-    des_link: "https://www.sultanmedicalcenter.com/",
-    contact: "./contact/sumesh mani.vcf",
+    Name: "Eng.fairooz azhari",
+    designation: "CEO",
+    des_link_text: "@EMMAD ",
+    des_link: "https://www.immad.com/",
+    contact: "./contact/emaad.vcf",
 };
 
 const contact ={
-    contact_no: "+97431583005",
-    whatsapp: "+97431583005",
-    location: "https://maps.app.goo.gl/hqmjaP2jbvmmTmbJA",
-    email: "corp.manager@sultanmedicalcenter.com",
+    contact_no: "+919562279483",
+    whatsapp: "+919562279483",
+    location: "",
+    email: "",
 };
 
 const profilelogo=[
@@ -30,7 +30,7 @@ const links =[
     link:"https://www.facebook.com/jafar.madari?mibextid=LQQJ4d"
   },
     instagram={
-    visibil: true,
+    visibil: false,
     link:"https://www.instagram.com/sultanmedicalcenter/"
   },
     skype={
@@ -38,7 +38,7 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     web={
-    visibil: true,
+    visibil: false,
     link:"https://www.sultanmedicalcenter.com/"
   },
     linkedin={
@@ -54,7 +54,7 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     mail={
-    visibil: true,
+    visibil: false,
     link:"corp.manager@sultanmedicalcenter.com"
   },
     google={
