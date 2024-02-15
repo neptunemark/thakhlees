@@ -1,17 +1,17 @@
 const person = {
-    profile_pic: "./image/emmad.jpg",
+    profile_pic: "./image/taleef.jpg",
     profile_logo: "./image/DBI.jpg",
 
-    Name: "Eng.fairooz azhari",
-    designation: "CEO",
-    des_link_text: "@EMMAD ",
-    des_link: "https://www.immad.com/",
-    contact: "./contact/emaad.vcf",
+    Name: "Yousuf",
+    designation: "Executive Director ",
+    des_link_text: "@Tanleef",
+    des_link: "https://www.tanleef.com/",
+    contact: "./contact/tanleef.vcf",
 };
 
 const contact ={
-    contact_no: "+919562279483",
-    whatsapp: "+919562279483",
+    contact_no: "+919495458899",
+    whatsapp: "+919495458899",
     location: "",
     email: "",
 };
@@ -54,8 +54,8 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     mail={
-    visibil: false,
-    link:"corp.manager@sultanmedicalcenter.com"
+    visibil: true,
+    link:"Info@tanleef.com"
   },
     google={
     visibil: false,
