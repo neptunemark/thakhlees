@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/taleef.jpg",
+    profile_pic: "./image/arsalan.jpeg",
     profile_logo: "./image/DBI.jpg",
 
-    Name: "Yousuf",
-    designation: "Executive Director ",
-    des_link_text: "@Tanleef",
-    des_link: "https://www.tanleef.com/",
-    contact: "./contact/tanleef.vcf",
+    Name: "Arsalaan Siddiqui",
+    designation: "Manager ",
+    des_link_text: "@National Point",
+    des_link: "https:/www.tanleef.com/",
+    contact: "./contact/arsalan.vcf",
 };
 
 const contact ={
-    contact_no: "+919495458899",
-    whatsapp: "+919495458899",
+    contact_no: "+971561560692",
+    whatsapp: "971561560692",
     location: "",
-    email: "",
+    email: "arsalaansiddiquie7060@gmail.com",
 };
 
 const profilelogo=[
@@ -26,12 +26,12 @@ const profilelogo=[
 
 const links =[
     facebook={
-    visibil: false,
-    link:"https://www.facebook.com/jafar.madari?mibextid=LQQJ4d"
+    visibil: true,
+    link:"https://www.facebook.com/fbarshuu?mibextid=LQQJ4d"
   },
     instagram={
-    visibil: false,
-    link:"https://www.instagram.com/sultanmedicalcenter/"
+    visibil: true,
+    link:"https://www.instagram.com/arsalaanayazsiddiqui?igsh=dzNhZDJ1bm05ZGxm&amp;utm_source=qr"
   },
     skype={
     visibil: false,
@@ -54,7 +54,7 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     mail={
-    visibil: true,
+    visibil: false,
     link:"Info@tanleef.com"
   },
     google={
