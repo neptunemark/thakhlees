@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/arsalan.jpeg",
+    profile_pic: "./image/faheem.jpg",
     profile_logo: "./image/DBI.jpg",
 
-    Name: "Arsalaan Siddiqui",
-    designation: "Manager ",
+    Name: "Faheem Ahmad",
+    designation: "Company Owner ",
     des_link_text: "@National Point",
-    des_link: "https:/www.tanleef.com/",
-    contact: "./contact/arsalan.vcf",
+    des_link: "",
+    contact: "./contact/faheem.vcf",
 };
 
 const contact ={
-    contact_no: "+971561560692",
-    whatsapp: "971561560692",
-    location: "",
-    email: "arsalaansiddiquie7060@gmail.com",
+    contact_no: "+971555702102",
+    whatsapp: "971555702102",
+    location: "https://www.google.com/maps/place/25%C2%B016'33.5%22N+55%C2%B018'33.6%22E/@25.2759581,55.3093394,15z/data=!4m4!3m3!8m2!3d25.2759581!4d55.3093394",
+    email: "faheemahmad982@gmail.com",
 };
 
 const profilelogo=[
@@ -27,11 +27,11 @@ const profilelogo=[
 const links =[
     facebook={
     visibil: true,
-    link:"https://www.facebook.com/fbarshuu?mibextid=LQQJ4d"
+    link:"https://m.facebook.com/people/National-Point/61555328157061/"
   },
     instagram={
     visibil: true,
-    link:"https://www.instagram.com/arsalaanayazsiddiqui?igsh=dzNhZDJ1bm05ZGxm&amp;utm_source=qr"
+    link:"https://www.instagram.com/nationalpoint7/?igsh=MTZvNGIzajZrMnQ2bw%3D%3D&amp;utm_source=qr"
   },
     skype={
     visibil: false,
@@ -54,12 +54,12 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     mail={
-    visibil: false,
-    link:"Info@tanleef.com"
+    visibil: true,
+    link:"nationalpoint7@gmail.com"
   },
     google={
-    visibil: false,
-    link:"https://neptunemark.com/"
+    visibil: true,
+    link:"https://g.co/kgs/iYGMWK3"
   },
     telegram={
     visibil: false,
@@ -67,7 +67,7 @@ const links =[
   },
     youtube={
     visibil: false,
-    link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
+    link:"https://www.youtube.com/@NATIONALPOINT7"
   },
     pinterest={
     visibil: false,
