@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/ASHKARK.jpeg",
+    profile_pic: "./image/thakhlees.jpeg",
     profile_logo: "",
 
-    Name: "Askar Kallooravi",
-    designation: "Marketing Specialist ",
+    Name: "Thakhlees Transactions",
+    designation: "Business documentation services",
     des_link_text: "",
-    des_link: "",
-    contact: "./contact/ASHKAR.vcf",
+    des_link: "https://thakhlees.com/",
+    contact: "./contact/THAKHLEES..vcf",
 };
 
 const contact ={
-    contact_no: "+971588847056",
-    whatsapp: "971588847056",
-    location: "https://maps.app.goo.gl/kVJCAxMASvxZTYmH6?g_st=ic",
-    email: "askuashkar484@gmail.com",
+    contact_no: "+971564941200",
+    whatsapp: "971564941200",
+    location: "https://g.co/kgs/UR69uYP",
+    email: "thakhlees.br3@gmail.com",
 };
 
 const profilelogo=[
@@ -30,7 +30,7 @@ const links =[
     link:"https://m.facebook.com/people/National-Point/61555328157061/"
   },
     instagram={
-    visibil: true,
+    visibil: false,
     link:"https://www.instagram.com/___as.hku?igsh=cmkzaXBwb20yZXZ0&amp;utm_source=qr"
   },
     skype={
@@ -38,8 +38,8 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     web={
-    visibil: false,
-    link:"https://www.sultanmedicalcenter.com/"
+    visibil: true,
+    link:"https://thakhlees.com/"
   },
     linkedin={
     visibil: false,
@@ -55,11 +55,11 @@ const links =[
   },
     mail={
     visibil: true,
-    link:"askuashkar484@gmail.com"
+    link:"thakhlees.br3@gmail.com"
   },
     google={
-    visibil: false,
-    link:"https://g.co/kgs/iYGMWK3"
+    visibil: true,
+    link:"https://g.co/kgs/UR69uYP"
   },
     telegram={
     visibil: false,
